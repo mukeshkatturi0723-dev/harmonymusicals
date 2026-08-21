@@ -15,7 +15,7 @@ export function Hero() {
       <div className="absolute inset-0 flex items-end">
         <div className="mx-auto w-full max-w-[1180px] px-5 pb-14 md:px-8 md:pb-20">
           <p className="text-[0.7rem] tracking-[0.2em] text-champagne">
-            SINCE 1996 &middot; VISAKHAPATNAM
+            Harmony Musicals &middot; Visakhapatnam
           </p>
           <h1 className="mt-4 max-w-[14ch] font-display text-[3rem] leading-[0.95] text-ivory sm:text-[4rem] md:text-[5.25rem]">
             Find Your Sound.

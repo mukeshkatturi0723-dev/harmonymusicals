@@ -397,7 +397,7 @@ export function Heritage() {
         <Reveal className="md:col-span-5">
           <p className="eyebrow">About Harmony Musicals</p>
           <h2 className="mt-2 font-display text-[1.9rem] leading-tight md:text-[2.4rem]">
-            Three decades of selling, repairing and teaching music
+            A shop built around the people who play
           </h2>
         </Reveal>
         <Reveal delay={80} className="md:col-span-7">
